@@ -1,4 +1,13 @@
-# The SNAP Gap
+# Excel Exploratory Data Analysis Project
+## The SNAP Gap
+Created By: Leah Nagy
+
+### Table of Contents
+1. [Presentation Slides](https://github.com/leahnagy/snap-gap/blob/main/business_slides.pdf)
+2. [Excel File](https://github.com/leahnagy/snap-gap/blob/main/business_excel.xlsx)
+3. [Tableau Dashboard](https://public.tableau.com/app/profile/leah.nagy/viz/FoodEnvironmentAtlasProject/Story2?publish=yes)
+
+### Abstract
 The SNAP Gap, a nonprofit startup, will connect communities with low income and/or low access (LILA) to local farms. They first need to identify the most at-risk areas where they should focus their work. The initial step was to identify features that identify these communities from known data, which is on the county-level. Once the classification model is developed, cities with a high need can be predicted from that model. The initial exploratory data analysis discovered the following areas to be strong predictors of LILA counties: high proportion of minorities, extremely low population, and low household income.
 
 ### Design
